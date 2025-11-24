@@ -1,6 +1,8 @@
 # Hi, I’m Kulgagan 👋  
+### About Me
 
-I’m a software engineer who turns my curiosity into logic, using backend development to bring all the cool ideas I have in my head to life. 
+- **Third-year** Computer Science student at the **University of Alberta**
+- Software engineer who turns curiosity into logic, using **backend development** to bring my ideas to life.
 
 I specialize in **Python**, **FastAPI**, and **PostgreSQL**, and I’m always exploring new ways to make data useful, whether it’s applying machine learning or web scraping to generate actionable insights, or using EEG libraries like MNE or BrainFlow to translate brainwaves into tangible information. Curiosity drives everything I build.
 
@@ -8,16 +10,46 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ---
 
-### 🔧 Tech Stack  
+### 🔧 My Skill Set  
 
-- **Languages:** Python, C, JavaScript/TypeScript, R  
+- **Languages:** Python, JavaScript/TypeScript, HTML, CSS, C, R
 - **Frameworks & Libraries:** FastAPI, Flask, React, Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, MNE, BrainFlow  
-- **Databases:** PostgreSQL  
-- **Tools & Platforms:** Git/GitHub, VSCode, Vercel, Docker, Postman, Agile  
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,css)](https://skillicons.dev)
+- **Databases:** PostgreSQL, Supabase
+- **Tools & Platforms:** Git/GitHub, VSCode, Vercel, Docker, Postman, Agile
+
 ---
 
-### 🚀 Projects  
+### My Current Stack
+
+#### Backend/Data/ML
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" alt="My Skills">
+  </a>
+</p>
+
+---
+
+#### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,supabase" alt="My Skills">
+  </a>
+</p>
+
+---
+
+#### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,react" alt="My Skills">
+  </a>
+</p>
+
+---
+
+
+### 🚀 My Projects 
 
 - [Clario](https://github.com/Kulgagan/Clario)  
 - [Skill Sync](https://github.com/Kulgagan/SkillSync)  
