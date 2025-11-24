@@ -14,7 +14,7 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 - **Frameworks & Libraries:** FastAPI, Flask, React, Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, MNE, BrainFlow  
 - **Databases:** PostgreSQL  
 - **Tools & Platforms:** Git/GitHub, VSCode, Vercel, Docker, Postman, Agile  
-
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,css)](https://skillicons.dev)
 ---
 
 ### 🚀 Projects  
