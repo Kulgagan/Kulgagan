@@ -1,39 +1,31 @@
 # Hi, I’m Kulgagan 👋  
 
-I’m a software engineer who turns ideas into logic. I specialize in **backend development** using **Python, FastAPI, and PostgreSQL**, and I love combining this with **machine learning** to make data actionable.  
+I’m a software engineer who turns my curiosity into logic, using backend development to bring all the cool ideas I have in my head to life. 
+I specialize in **Python**, **FastAPI**, and **PostgreSQL**, and I’m always exploring new ways to make data useful, whether it’s applying machine learning or web scraping to generate actionable insights, or using EEG libraries like MNE or BrainFlow to translate brainwaves into tangible information. Curiosity drives everything I build.
 
-I’ve worked with teams, so I know how to collaborate effectively on **GitHub**, building projects from concept to reality. My experiments range from **web scraping for insights** to **EEG libraries to translate brainwaves** into tangible data we can use.  
-
-Right now, I’m diving deep into **backend systems + ML with PyTorch**, integrating what I learn into new projects and pushing the boundaries of what I can build.  
+Right now, I’m diving deep into **backend systems + ML with PyTorch**, integrating what I learn into new projects and pushing the boundaries of what I can build.
 
 ---
 
 ### 🔧 Tech Stack  
 
-- **Languages:** Python, C, SQL  
-- **Frameworks & Libraries:** FastAPI, PyTorch, Pandas, NumPy  
+- **Languages:** Python, C, JavaScript/TypeScript, R  
+- **Frameworks & Libraries:** FastAPI, Flask, React, Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, MNE, BrainFlow  
 - **Databases:** PostgreSQL  
-- **Tools:** Git, GitHub, Docker, Linux/Unix  
-
----
-
-### 📈 Stats  
-
-![Kulgagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulgagan&show_icons=true&hide_border=true&theme=radical)
+- **Tools & Platforms:** Git/GitHub, VSCode, Vercel, Docker, Postman, Agile  
 
 ---
 
 ### 🚀 Projects  
 
-- **[Boardly](https://github.com/Kulgagan/Boardly)** – Automating technical interviews with AI for more efficient hiring.  
-- **[EEG Brainwave Analyzer](https://github.com/Kulgagan/EEGProject)** – Turning brainwave signals into actionable insights.  
-- **[Web Scraping & ML Tools](https://github.com/Kulgagan/WebScraperML)** – Collecting and analyzing data to generate predictions and insights.  
+- [Clario](https://github.com/Kulgagan/Clario)  
+- [EEG Analyzer](https://github.com/Kulgagan/EEGAnalyzer)  
+- [Skill Sync](https://github.com/Kulgagan/SkillSync)  
+- [Stock Forecaster](https://github.com/Kulgagan/StockForecaster)  
+- [Study Suggester](https://github.com/Kulgagan/StudySuggester)  
 
 ---
 
-📫 **Get in touch:**  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com)  
-- Twitter: [@YourTwitter](https://twitter.com)  
-- GitHub: [@Kulgagan](https://github.com/Kulgagan)
-
+### 📫 Get in touch:**  
+- Email: [kulgagan08@gmail.com](mailto:kulgagan08@gmail.com)  
+- LinkedIn: [Kulgagan Bajwa](https://www.linkedin.com/in/kulgagan)  
