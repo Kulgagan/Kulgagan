@@ -19,7 +19,6 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 ### 🚀 Projects  
 
 - [Clario](https://github.com/Kulgagan/Clario)  
-- [EEG Analyzer](https://github.com/Kulgagan/EEGAnalyzer)  
 - [Skill Sync](https://github.com/Kulgagan/SkillSync)  
 - [Stock Forecaster](https://github.com/Kulgagan/StockForecaster)  
 - [Study Suggester](https://github.com/Kulgagan/StudySuggester)  
