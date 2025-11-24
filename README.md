@@ -31,8 +31,9 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integra
 
 ---
 
-### 📫 Connect with me  
-
-- Email: kulgagan08@gmal.com  
-- LinkedIn: [Kulgagan Bajwa](https://www.linkedin.com/in/kulgaganbajwa)  
+📫 **Get in touch:**  
+- Email: [your-email@example.com](mailto:your-email@example.com)  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com)  
+- Twitter: [@YourTwitter](https://twitter.com)  
+- GitHub: [@Kulgagan](https://github.com/Kulgagan)
 
