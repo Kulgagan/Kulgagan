@@ -1,6 +1,7 @@
 # Hi, I’m Kulgagan 👋  
 
 I’m a software engineer who turns my curiosity into logic, using backend development to bring all the cool ideas I have in my head to life. 
+
 I specialize in **Python**, **FastAPI**, and **PostgreSQL**, and I’m always exploring new ways to make data useful, whether it’s applying machine learning or web scraping to generate actionable insights, or using EEG libraries like MNE or BrainFlow to translate brainwaves into tangible information. Curiosity drives everything I build.
 
 Right now, I’m diving deep into **backend systems + ML with PyTorch**, integrating what I learn into new projects and pushing the boundaries of what I can build.
