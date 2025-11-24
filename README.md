@@ -48,8 +48,8 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 - [Clario](https://github.com/Kulgagan/Clario)  
 - [Skill Sync](https://github.com/Kulgagan/SkillSync)  
-- [Stock Forecaster](https://github.com/Kulgagan/StockForecaster)  
-- [Study Suggester](https://github.com/Kulgagan/StudySuggester)  
+- [Stock Forecaster](https://github.com/Kulgagan/Stock-Forecaster)  
+- [Study Suggester](https://github.com/Kulgagan/Study-Suggester)  
 
 ---
 
