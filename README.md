@@ -1,5 +1,5 @@
 # Hi, I’m Kulgagan 👋  
-## About Me
+## 👨‍💻 About Me
 
 - **Third-year** Computer Science student at the **University of Alberta**
 - Software engineer who turns curiosity into logic, using **backend development** to bring my ideas to life.
@@ -10,7 +10,7 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ---
 
-## 🔧 My Skill Set  
+## 🧰 My Skill Set  
 
 - **Languages:** Python, JavaScript/TypeScript, HTML, CSS, C, R
 - **Frameworks & Libraries:** FastAPI, Flask, React, Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, MNE, BrainFlow  
@@ -19,23 +19,23 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ---
 
-## My Current Stack
+## 🔧 My Current Stack
 
-#### Backend/Data/ML
+#### Backend/Data/ML:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" alt="My Skills">
   </a>
 </p>
 
-#### Databases
+#### Databases:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,supabase" alt="My Skills">
   </a>
 </p>
 
-#### Frontend
+#### Frontend:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=typescript,react" alt="My Skills">
@@ -44,7 +44,7 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ---
 
-### 🚀 My Projects 
+## 🚀 My Projects 
 
 - [Clario](https://github.com/Kulgagan/Clario)  
 - [Skill Sync](https://github.com/Kulgagan/SkillSync)  
@@ -53,6 +53,6 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ---
 
-### 📫 Get in touch:
+## 📫 Get in touch:
 - Email: [kulgagan08@gmail.com](mailto:kulgagan08@gmail.com)  
 - LinkedIn: [Kulgagan Bajwa](https://www.linkedin.com/in/kulgagan)  
