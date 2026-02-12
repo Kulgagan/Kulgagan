@@ -47,7 +47,7 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 ## 🚀 My Projects 
 
 - [Clario](https://github.com/Kulgagan/Clario)
-- [EEG Analyzer] (https://natignite2025.vercel.app/)
+- [EEG Analyzer](https://natignite2025.vercel.app/)
 - [Skill Sync](https://github.com/Kulgagan/SkillSync)  
 - [Stock Forecaster](https://github.com/Kulgagan/Stock-Forecaster)  
 - [Study Suggester](https://github.com/Kulgagan/Study-Suggester)  
