@@ -12,10 +12,10 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ## 🚀 My Projects 
 
-- [TriageID](https://github.com/Kulgagan/Clario) – 🏆 Hackathon Winner  
+- [TriageID](https://github.com/Megaman222111/artificial-unintelligence_TriageID) – 🏆 Hackathon Winner  
   NFC triage system providing instant access to critical patient information, supporting faster and safer medical decisions.
 
-- [ProPro Sahur](https://github.com/Kulgagan/Clario) – 🏆 Hackathon Winner  
+- [ProPro Sahur](https://github.com/Kulgagan/Sillycon-Valley-Hacks) – 🏆 Hackathon Winner  
   An AI-powered digital companion that stops distractions and keeps you on task.
 
 - [Clario](https://github.com/Kulgagan/Clario)  
