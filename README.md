@@ -12,13 +12,26 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ## 🚀 My Projects 
 
-- [TriageID](https://github.com/Kulgagan/Clario) – 🏆 Hackathon Winner | NFC triage system providing instant access to critical patient information, supporting faster and safer medical decisions.
-- [ProPro Sahur](https://github.com/Kulgagan/Clario) – 🏆 Hackathon Winner | An AI-powered digital companion that stops distractions and keeps you on task.
-- [Clario](https://github.com/Kulgagan/Clario) – Personalizes focus with real-time EEG-driven music, helping users study and work more effectively.
-- [EEG Analyzer](https://natignite2025.vercel.app/) – Translating brainwaves into actionable insights using Python & MNE.
-- [Skill Sync](https://github.com/Kulgagan/SkillSync) – Summarizes code repositories, making it easier for training new hires. 
-- [Stock Forecaster](https://github.com/Kulgagan/Stock-Forecaster) - LSTM model forecasting where stock price is likely to go in future. 
-- [Study Suggester](https://github.com/Kulgagan/Study-Suggester) – Helps students choose what study methods to use using webscraped data. 
+- [TriageID](https://github.com/Kulgagan/Clario) – 🏆 Hackathon Winner  
+  NFC triage system providing instant access to critical patient information, supporting faster and safer medical decisions.
+
+- [ProPro Sahur](https://github.com/Kulgagan/Clario) – 🏆 Hackathon Winner  
+  An AI-powered digital companion that stops distractions and keeps you on task.
+
+- [Clario](https://github.com/Kulgagan/Clario)  
+  Personalizes focus with real-time EEG-driven music, helping users study and work more effectively.
+
+- [EEG Analyzer](https://natignite2025.vercel.app/)  
+  Translating brainwaves into actionable insights using Python & MNE.
+
+- [Skill Sync](https://github.com/Kulgagan/SkillSync)  
+  Summarizes code repositories, making it easier for training new hires.
+
+- [Stock Forecaster](https://github.com/Kulgagan/Stock-Forecaster)  
+  LSTM model forecasting where stock price is likely to go in future.
+
+- [Study Suggester](https://github.com/Kulgagan/Study-Suggester)  
+  Helps students choose what study methods to use using web-scraped data.
 
 ---
 
