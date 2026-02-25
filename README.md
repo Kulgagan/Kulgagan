@@ -10,6 +10,16 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ---
 
+## 🚀 My Projects 
+
+- [Clario](https://github.com/Kulgagan/Clario)
+- [EEG Analyzer](https://natignite2025.vercel.app/)
+- [Skill Sync](https://github.com/Kulgagan/SkillSync)  
+- [Stock Forecaster](https://github.com/Kulgagan/Stock-Forecaster)  
+- [Study Suggester](https://github.com/Kulgagan/Study-Suggester)
+
+---
+
 ## 🧰 My Skill Set  
 
 - **Languages:** Python, JavaScript/TypeScript, HTML, CSS, C, R
@@ -41,16 +51,6 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
     <img src="https://skillicons.dev/icons?i=typescript,react" alt="My Skills">
   </a>
 </p>
-
----
-
-## 🚀 My Projects 
-
-- [Clario](https://github.com/Kulgagan/Clario)
-- [EEG Analyzer](https://natignite2025.vercel.app/)
-- [Skill Sync](https://github.com/Kulgagan/SkillSync)  
-- [Stock Forecaster](https://github.com/Kulgagan/Stock-Forecaster)  
-- [Study Suggester](https://github.com/Kulgagan/Study-Suggester)  
 
 ---
 
