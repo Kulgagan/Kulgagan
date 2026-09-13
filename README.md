@@ -1,12 +1,18 @@
 # Hi, I’m Kulgagan 👋  
 ## 👨‍💻 About Me
 
-- **Third-year** Computer Science student at the **University of Alberta**
-- Software engineer who turns curiosity into logic, using **backend development** to bring my ideas to life.
+* **Fourth-year** Computer Science student at the University of Alberta
+* **Software engineer** who turns **curiosity** into logic, and **logic** into things that **actually work.**
 
-I specialize in **Python**, **FastAPI**, and **PostgreSQL**, and I’m always exploring new ways to make data apply to my ideas, whether it’s applying machine learning or web scraping to generate actionable insights, or using EEG libraries like MNE or BrainFlow to translate brainwaves into tangible information. Curiosity drives everything I build.
+I specialize in **Python**, **FastAPI**, and **PostgreSQL**, with a strong interest in **backend and full-stack development**. I like building software that takes an idea from “this would be cool” to something people can actually use.
 
-Right now, I’m diving deep into **backend systems + ML with PyTorch**, integrating what I learn into new projects and pushing the boundaries of what I can build.
+Lately, I’ve been taking that same logical, systems-oriented way of thinking outside the screen. I’ve been diving deeper into electronics and embedded systems with Arduino Nanos, Unos, ESP32s, sensors, displays, motors, and pretty much anything else I can convince to communicate with each other.
+
+There’s something ridiculously satisfying about writing a piece of logic and then watching a physical system react to it in the real world. Whether I’m building something purely because it’s cool or creating something that genuinely makes my day-to-day life better, I’m interested in finding ways to make software interact with reality.
+
+That said, when it comes time to build a full-stack project, I’m still very much in my element. Give me a backend, a database, a frontend, and a slightly questionable idea, and I’ll probably build it.
+
+Curiosity drives everything I build.
 
 ---
 
