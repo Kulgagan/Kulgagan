@@ -41,10 +41,10 @@ That said, when it comes time to build a full-stack project, I’m still very mu
 
 ## 🧰 My Skill Set  
 
-- **Languages:** Python, JavaScript/TypeScript, HTML, CSS, C, R
-- **Frameworks & Libraries:** FastAPI, Flask, React, Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, MNE, BrainFlow  
-- **Databases:** PostgreSQL, Supabase
-- **Tools & Platforms:** Git/GitHub, VSCode, Vercel, Docker, Postman, Agile
+- **Skills/Coursework** Software Engineering, Data Structures, Algorithms, Statistics, Version Control, Data Visualization, Agile
+- **Languages:** Python, SQL, JavaScript/TypeScript, R, C, C#, C++
+- **Frameworks & Libraries:** React, Node.js, Next.js, Flask, FastAPI, Pandas, NumPy, Matplotlib, Scikit-Learn, OpenCV, MNE, BrainFlow
+- **Developer Tools:** Git/GitHub, VSCode, Vercel, AWS(RDS, EC2), UNIX, Postman, Expo Go, Docker, PostgreSQL, MySQL, NoSQL, CAD, MongoDB, Codex, Claude Code
 
 ---
 
