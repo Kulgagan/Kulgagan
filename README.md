@@ -12,7 +12,7 @@ There’s something ridiculously satisfying about writing a piece of logic and t
 
 That said, when it comes time to build a full-stack project, I’m still very much in my element. *Give me a backend, a database, a frontend, and a slightly questionable idea, and I’ll probably build it.*
 
-Curiosity drives everything I build.
+**Curiosity drives everything I build.**
 
 ---
 
