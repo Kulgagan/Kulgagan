@@ -8,8 +8,6 @@ I specialize in **Python**, **FastAPI**, and **PostgreSQL**, with a strong inter
 
 Lately, I’ve been diving deeper into **electronics** and **embedded systems** with Arduino Nanos, Unos, ESP32s, sensors, displays, motors, and pretty much anything else I can convince to communicate with each other.
 
-There’s something ridiculously satisfying about writing a piece of logic and then watching a physical system react to it in the real world. Whether I’m building something purely because it’s cool or creating something that genuinely makes my day-to-day life better, I’m interested in finding ways to make software interact with reality.
-
 That said, when it comes time to build a full-stack project, I’m still very much in my element. *Give me a backend, a database, a frontend, and a slightly questionable idea, and I’ll probably build it.*
 
 **Curiosity drives everything I build.**
