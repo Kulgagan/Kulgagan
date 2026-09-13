@@ -44,31 +44,6 @@ Right now, I’m diving deep into **backend systems + ML with PyTorch**, integr
 
 ---
 
-## 🔧 My Current Stack
-
-#### Backend/Data/ML:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi" alt="My Skills">
-  </a>
-</p>
-
-#### Databases:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,supabase" alt="My Skills">
-  </a>
-</p>
-
-#### Frontend:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react" alt="My Skills">
-  </a>
-</p>
-
----
-
 ## 📫 Get in touch:
 - Email: [kulgagan08@gmail.com](mailto:kulgagan08@gmail.com)  
 - LinkedIn: [Kulgagan Bajwa](https://www.linkedin.com/in/kulgagan)  
