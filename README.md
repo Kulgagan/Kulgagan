@@ -16,6 +16,9 @@ That said, when it comes time to build a full-stack project, I’m still very mu
 
 ## 🚀 My Projects 
 
+- [Accessify](https://github.com/jionchoi/Accessify)  
+  AI-powered platform that converts photos into interactive 3D accessibility audits and disability-aware simulations.
+
 - [TriageID](https://github.com/Megaman222111/artificial-unintelligence_TriageID) – 🏆 Hackathon Winner  
   NFC triage system providing instant access to critical patient information, supporting faster and safer medical decisions.
 
